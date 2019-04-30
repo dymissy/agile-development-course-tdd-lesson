@@ -1,0 +1,13 @@
+{
+    "name": "ideatosrl/agile-course-tdd",
+    "authors": [
+        {
+            "name": "Simone D'Amico",
+            "email": "sd@ideato.it"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "phpunit/phpunit": "5.7.27"
+    }
+}
